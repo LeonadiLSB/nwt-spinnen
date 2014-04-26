@@ -31,6 +31,19 @@ Bitte nach einem Kameraadapter zum Fotografieren der Präparate für die Elmokam
 ### Mi, 26.03.2014
 
 
+### Do, 27.03.2014
+
+#### Geplante Versuchsreihen
+
+* Zeigen, dass Oberflächen nicht glatt sind
+* Härchen an Spinnen untersuchen
+* Modellversuch: [Frischhaltefolie](http://www.uni-konstanz.de/botanischergarten/Bionik/LSG-Geckofuss-Mittelstufe.pdf)
+
+#### Weitere Informationen
+* [Wikipedia: Frischhaltefolie](https://de.wikipedia.org/wiki/Adh%C3%A4sionsfolie)
+* [IOPScience](http://iopscience.iop.org/0964-1726/13/3/009)
+
+
 ### Do, 03.04.2014 -- Morgens
 
 Überlegungen für Modell:
@@ -59,3 +72,5 @@ Wiederholung mit 0,3cm Breite. (A = 10,5cm²)
 Die Folie hält 0,78kg (Glas nicht voll).
 
 ### Do, 03.04.2014 -- Nachmittags
+
+Bauen eines Modells aus Pappmaché (danke Wikipedia), Plastikflasche als Grundlage
